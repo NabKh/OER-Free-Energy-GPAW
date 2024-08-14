@@ -65,8 +65,3 @@ For more information on using DFT calculations for electrocatalysis, including t
 2. Khossossi, N., Banerjee, A., & Dey, P. (2023). Synergistic effect of Fe/Co-doping and electric field in Niobium Diboride for boosting hydrogen production. Surfaces and Interfaces, 39, 102972.
 
 3. Singh, Deobrat, Nabil Khossossi, Abdelmajid Ainane, and Rajeev Ahuja. "Modulation of 2D GaS/BTe vdW heterostructure as an efficient HER catalyst under external electric field influence." Catalysis Today 370 (2021): 14-25.
-
-
-## Acknowledgments
-
-This script was created to assist in understanding and utilizing DFT calculations for plotting free energy diagrams in electrochemical reactions. Special thanks to the developers of GPAW and ASE for their contributions to computational chemistry tools.
